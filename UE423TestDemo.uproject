@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{EF835028-4099-5643-C35C-D99671962A54}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE423TestDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
